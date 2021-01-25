@@ -3,6 +3,7 @@ module Node.Crypto.Decipher
   , fromHex
   , fromBase64
   , createDecipher
+  , decipher
   , update
   , final
   ) where
